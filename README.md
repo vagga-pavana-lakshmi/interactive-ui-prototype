@@ -40,7 +40,7 @@ flowchart TD
 
 ## 🔗 Interactive Figma Prototype
 
-[**View Interactive Prototype →**](https://www.figma.com/proto/pHlh2Fso3UgP8B3Z2F8oeF/website-ui-redesign?node-id=19-591&p=f&t=znxsWovu6qsnVz5z-1&scaling=scale-down&content-scaling=fixed&page-id=17%3A426&starting-point-node-id=18%3A432)
+[**View Interactive Prototype →**](https://www.figma.com/proto/pHlh2Fso3UgP8B3Z2F8oeF/website-ui-redesign?node-id=18-432&t=8qrfGVMzO3a5iEKo-1&scaling=scale-down&content-scaling=fixed&page-id=17%3A426&starting-point-node-id=18%3A432)
 
 The prototype can be explored in Present mode to experience the navigation and interactive menu.
 
